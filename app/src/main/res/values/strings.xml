@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Do With Me</string>
+    <string name="start">Start</string>
+    <string name="tasks">Tasks</string>
+    <string name="todo">TODO</string>
+    <string name="todo_logo">TODO</string>
+    <string name="do_with_me">Do With Me</string>
+</resources>
